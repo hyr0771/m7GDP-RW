@@ -15,7 +15,7 @@ ten_CV.m is the ten-fold cross-validation
 
 draw_ROC.m used to draw ROC and PR curves
 
-cluster_ One1.0.jar should be placed in the same folder as Main. m
+cluster_ One1.0.jar, DiseasesP.txt, M7GP.txt should be placed in the same folder as Main. m
 
 The dataset we used can be found in the "Datasets" folder.
 All files of Dataset and Code should be stored in the same folder to run CLTPRW.
