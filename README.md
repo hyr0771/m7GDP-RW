@@ -1,7 +1,7 @@
 # m7GDP-RW
 
 We propose a new method named m7GDP-RW to identify m7G-disease associations via random walk with restart. 
-This CLTPRW program is implemented in Matlab2018b.
+This m7GDP-RW  program is implemented in Matlab2018b.
 
 "Main.m" demonstrates the experimental result on the gold standard dataset by m7GDP-RW.
 
